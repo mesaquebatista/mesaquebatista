@@ -1,11 +1,17 @@
-### Hi there 👋
+### Bem-vindo ao meu GitHub👋
+
+Meu nome é Mesaque e sou um desenvolvedor de sistemas experiente com habilidades em diferentes áreas, incluindo docência e gestão de equipes de TI. Eu me especializei em desenvolvimento de sistemas back-end e adoro trabalhar na construção de APIs. Atualmente, tenho três anos de experiência com PHP, mas também tenho conhecimento em outras linguagens, como Java, JavaScript e Python.
+
+Além de back-end, também tenho conhecimentos em desenvolvimento front-end, com experiência em VueJs como framework, e no desenvolvimento de aplicativos híbridos usando o Ionic com Angular. Tenho habilidades e experiência em diferentes sistemas operacionais, incluindo Windows, macOS e Linux (especialmente Ubuntu e Debian).
+
+Aqui você encontrará alguns dos meus projetos públicos, todos usados para fins educativos. Fique à vontade para explorá-los e me contatar caso precise de alguma ajuda ou colaboração em projetos futuros.
 
 <!--
 **mesaquebatista/mesaquebatista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working with PHP
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
