@@ -1,6 +1,6 @@
 ### Bem-vindo ao meu GitHub👋
 
-Meu nome é Mesaque e sou um desenvolvedor de sistemas experiente com habilidades em diferentes áreas, incluindo docência e gestão de equipes de TI. Eu me especializei em desenvolvimento de sistemas back-end e adoro trabalhar na construção de APIs. Atualmente, tenho três anos de experiência com PHP, mas também tenho conhecimento em outras linguagens, como Java, JavaScript e Python.
+Meu nome é Mesaque e sou um desenvolvedor de sistemas experiente com habilidades em diferentes áreas, incluindo docência e gestão de equipes de TI. Eu me especializei em desenvolvimento de sistemas back-end e adoro trabalhar na construção de APIs. Atualmente, tenho três anos de experiência com PHP e JavaScript, mas também tenho conhecimento em outras linguagens, como Java e Python.
 
 Além de back-end, também tenho conhecimentos em desenvolvimento front-end, com experiência em VueJs como framework, e no desenvolvimento de aplicativos híbridos usando o Ionic com Angular. Tenho habilidades e experiência em diferentes sistemas operacionais, incluindo Windows, macOS e Linux (especialmente Ubuntu e Debian).
 
